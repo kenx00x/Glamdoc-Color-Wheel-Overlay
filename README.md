@@ -5,9 +5,6 @@ primary and secondary colors of your equipped arm cyberware (Mantis Blades,
 Gorilla Arms, Monowire, Projectile Launch System) — replacing the five
 predefined brand swatches the 2.5 Glamdoc vendors offer.
 
-Pure Cyber Engine Tweaks mod: no redscript, no RED4ext, no archive edits.
-Zero footprint at save-load time — it cannot crash your game on load.
-
 ## Features
 
 - True HSV color pickers (hue ring + saturation/value) for primary and
@@ -21,7 +18,7 @@ Zero footprint at save-load time — it cannot crash your game on load.
 
 ## Requirements
 
-- Cyber Engine Tweaks (CET) 1.38.0 or newer (2.5-compatible)
+- Cyber Engine Tweaks
 
 ## Install
 
